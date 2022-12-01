@@ -1,0 +1,22 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svetlanael12/test-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svetlanael12/test-node/issues"
+  },
+  "homepage": "https://github.com/svetlanael12/test-node#readme",
+  "dependencies": {
+    "@svetlanael12/ajs-homeworks-3": "^1.0.0"
+  }
+}
